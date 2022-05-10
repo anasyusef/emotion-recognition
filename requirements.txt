@@ -1,0 +1,4 @@
+opencv-python
+tensorflow==2.8.0
+numpy
+gdown
